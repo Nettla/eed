@@ -13,7 +13,7 @@
     <hr size="3" >
 
     <p>Desk</p>
-    <img src="files/desk.png" width="105" ><img><br><br><br>
+    <img src="../files/desk.png" width="105" ><img><br><br><br>
 
     <p>Bill</p>
-    <img src="files/bill.png" width="105" ><img><br><br><br>
+    <img src="../files/bill.png" width="105" ><img><br><br><br>
