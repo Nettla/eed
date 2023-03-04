@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,5 +17,3 @@
 
     <p>Bill</p>
     <img src="bill.png" width="105" ><img><br><br><br>
-
-</html>
